@@ -1,0 +1,6 @@
+# Keep Windows launchers usable after checkout on any platform.
+*.cmd text eol=crlf
+*.py text eol=lf
+*.md text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
